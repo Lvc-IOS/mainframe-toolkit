@@ -7,3 +7,4 @@ Short notes and tips I collect while working on this.
 - **2026-10-31** — REXX: `OUTTRAP` + `LISTDS` is the quickest way to check dataset attributes from a script
 - **2026-11-01** — IDCAMS: `LISTCAT ENT(...) ALL` shows CI/CA splits — check before reorganising a KSDS
 - **2026-11-03** — ISPF: `SRCHFOR` across a PDS beats browsing members one by one
+- **2026-11-05** — COBOL: `INITIALIZE` a group item instead of MOVE SPACES/ZEROS field by field
