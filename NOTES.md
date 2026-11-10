@@ -11,3 +11,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-08** — VSAM: `SHAREOPTIONS(2 3)` is the usual choice for one writer, many readers
 - **2026-11-08** — ISPF: `SRCHFOR` across a PDS beats browsing members one by one
 - **2026-11-10** — VSAM: `SHAREOPTIONS(2 3)` is the usual choice for one writer, many readers
+- **2026-11-10** — REXX: `OUTTRAP` + `LISTDS` is the quickest way to check dataset attributes from a script
