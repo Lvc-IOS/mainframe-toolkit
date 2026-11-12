@@ -13,3 +13,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-10** — VSAM: `SHAREOPTIONS(2 3)` is the usual choice for one writer, many readers
 - **2026-11-10** — REXX: `OUTTRAP` + `LISTDS` is the quickest way to check dataset attributes from a script
 - **2026-11-11** — JCL: `COND=(4,LT)` skips the step if any previous RC > 4
+- **2026-11-12** — DFSORT: `SUM FIELDS=NONE,XSUM` keeps first record per key and dumps the rest
