@@ -15,3 +15,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-11** — JCL: `COND=(4,LT)` skips the step if any previous RC > 4
 - **2026-11-12** — DFSORT: `SUM FIELDS=NONE,XSUM` keeps first record per key and dumps the rest
 - **2026-11-12** — SDSF: `PREFIX` + `OWNER` filters to find your jobs fast
+- **2026-11-15** — DFSORT: `OPTION COPY` + `OUTFIL INCLUDE` is faster than a full SORT when order doesn't matter
