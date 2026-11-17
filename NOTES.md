@@ -17,3 +17,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-12** — SDSF: `PREFIX` + `OWNER` filters to find your jobs fast
 - **2026-11-15** — DFSORT: `OPTION COPY` + `OUTFIL INCLUDE` is faster than a full SORT when order doesn't matter
 - **2026-11-16** — REXX: `OUTTRAP` + `LISTDS` is the quickest way to check dataset attributes from a script
+- **2026-11-17** — COBOL: prefer `COMP-3` for amounts, `COMP` for counters and subscripts
