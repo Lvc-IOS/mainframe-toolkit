@@ -19,3 +19,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-16** — REXX: `OUTTRAP` + `LISTDS` is the quickest way to check dataset attributes from a script
 - **2026-11-17** — COBOL: prefer `COMP-3` for amounts, `COMP` for counters and subscripts
 - **2026-11-22** — COBOL: prefer `COMP-3` for amounts, `COMP` for counters and subscripts
+- **2026-11-25** — JCL: `COND=(4,LT)` skips the step if any previous RC > 4
