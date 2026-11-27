@@ -20,3 +20,4 @@ Short notes and tips I collect while working on this.
 - **2026-11-17** — COBOL: prefer `COMP-3` for amounts, `COMP` for counters and subscripts
 - **2026-11-22** — COBOL: prefer `COMP-3` for amounts, `COMP` for counters and subscripts
 - **2026-11-25** — JCL: `COND=(4,LT)` skips the step if any previous RC > 4
+- **2026-11-27** — JCL: `COND=(4,LT)` skips the step if any previous RC > 4
